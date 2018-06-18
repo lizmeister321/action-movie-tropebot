@@ -1,8 +1,8 @@
 {
     
-    origin: "#person.capitalize# #action# #location#",
-    person: ["The Rock", "Vin Diesel", "Liam Neeson", "Samuel L. Jackson", "Wesley Snipes", "Arnold Schwarzenegger circa 1993", "Dolph Lundgren", "Sylvester Stallone", "Keanu Reeves" "Nicholas Cage"],
-    action: ["just wants his kids back, man", "punches everyone", "cuts the green wire with two seconds left", "blows up a very tall building", "makes an ominous phone call", "leads a team of convicts", "has one day left until retirement"],
-    location: ["in space", "on a plane about to crash", "in the desert with no hope of survival", "on the loading dock of a cargo jet", "on Air Force One", "to protect the President", "somewhere awesome with a rockin' soundtrack"]
+   "origin": "#person.capitalize# #action# #location#",
+    "person": ["The Rock", "Vin Diesel", "Liam Neeson", "Samuel L. Jackson", "Wesley Snipes", "Arnold Schwarzenegger circa 1993", "Dolph Lundgren", "Sylvester Stallone", "Keanu Reeves" ,"Nicholas Cage"],
+    "action": ["just wants his kids back, man", "punches everyone", "cuts the green wire with two seconds left", "blows up a very tall building", "makes an ominous phone call", "leads a team of convicts", "has one day left until retirement"],
+    "location": ["in space", "on a plane about to crash", "in the desert with no hope of survival", "on the loading dock of a cargo jet", "on Air Force One", "to protect the President", "somewhere awesome with a rockin' soundtrack"]
 
 }
